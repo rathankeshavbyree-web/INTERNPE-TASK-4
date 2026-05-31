@@ -8,8 +8,6 @@
 
 https://internpe-task-4-psi.vercel.app/
 
-> Replace `YOUR_LIVE_LINK_HERE` with your deployed URL (e.g. GitHub Pages, Netlify, Vercel).
-
 ---
 
 ## ✨ Features
